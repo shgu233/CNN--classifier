@@ -25,5 +25,5 @@ The CNN model is composed of the following layers:
 
 The model achieved an accuracy of 98% on the validation set.
 
-![Sample Output](screenshots/sample_output.png)
+![Sample Output](cnn.png)
 
